@@ -11,6 +11,8 @@ The Folder contains 3 files
 
   The Database Structure.
   
+  <img width="1000" height="587" alt="image" src="https://github.com/user-attachments/assets/b5de4528-9ad5-4fbb-9ca3-a12a88ab5662" />
+
   The system uses a table called "Repairs":
   - ID: Primary Key (Auto-incremented)
   - Device: Brand/model
