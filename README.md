@@ -15,7 +15,7 @@ The Folder contains 3 files
   - ID: Primary Key (Auto-incremented)
   - Device: Brand/model
   - Issue: technical problem
-  - Status: Deafaults to 'Pending' until updated.
+  - Status: Defaults to 'Pending' until updated.
 
 
 Please Enjoy, This is a starting project. 
